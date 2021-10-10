@@ -1,4 +1,4 @@
-# MarsVR
+# MarsVR Treasure Hunt
 This project is inspired by the idea of living on human's potential future habitat - Mars!  
 
 <img width="650" alt="Screen Shot 2021-10-09 at 10 52 02 PM" src="https://user-images.githubusercontent.com/26547344/136679635-464cab83-4e00-4d7b-ba6d-afeab7d56362.png">
