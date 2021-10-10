@@ -1,5 +1,5 @@
 # MarsVR
-This project is inspired by the idea of living on human's potential habitat - Mars!  
+This project is inspired by the idea of living on future human's potential habitat - Mars!  
 
 <img width="650" alt="Screen Shot 2021-10-09 at 10 52 02 PM" src="https://user-images.githubusercontent.com/26547344/136679635-464cab83-4e00-4d7b-ba6d-afeab7d56362.png">
 <img width="700" alt="Screen Shot 2021-10-09 at 10 52 19 PM" src="https://user-images.githubusercontent.com/26547344/136679648-88ba7bca-5658-4f33-873c-c8ef7aba6db2.png">
