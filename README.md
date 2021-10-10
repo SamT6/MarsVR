@@ -8,8 +8,8 @@ This project is inspired by the idea of living on human's potential habitat - Ma
 
 check out the [demo video](https://youtu.be/Nf6N4SpPUsA)!  
 [Android App APK](https://drive.google.com/file/d/1RxIX08WBbKBfQML9vU1OCzgyYS05l8jk/view?usp=sharing)  
-Full Code (3GB)  
 [Presentation Slides](https://docs.google.com/presentation/d/1w9IEd1k_rljlUcJ7ouNOiI0nOZqz7vN1/edit?usp=sharing&ouid=103218567193628839819&rtpof=true&sd=true) (in Chinese)  
+Let me know if you need the full code (3GB)!
 
 The mission is to find the following "treasures" - more like necessary equipments - in order to survive on Mars:  
 <img width="494" alt="Screen Shot 2021-10-09 at 10 48 09 PM" src="https://user-images.githubusercontent.com/26547344/136679574-8c25c144-e3a8-4057-b8bb-e529628ee892.png">
