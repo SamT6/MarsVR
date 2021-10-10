@@ -3,9 +3,12 @@
 <img width="545" alt="Screen Shot 2021-10-09 at 10 59 30 PM" src="https://user-images.githubusercontent.com/26547344/136679795-ac5e010b-24bf-4680-a28a-55568e77d213.png">
 
 
-check out the [demo video](https://youtu.be/Nf6N4SpPUsA)!
+check out the [demo video](https://youtu.be/Nf6N4SpPUsA)! 
+
 [Android App APK](https://drive.google.com/file/d/1RxIX08WBbKBfQML9vU1OCzgyYS05l8jk/view?usp=sharing)
+
 Full Code (3GB)
+
 [Presentation Slides](https://docs.google.com/presentation/d/1w9IEd1k_rljlUcJ7ouNOiI0nOZqz7vN1/edit?usp=sharing&ouid=103218567193628839819&rtpof=true&sd=true) (in Chinese)
 
 This project is inspired by the idea of living on human's potential habitat - Mars! 
